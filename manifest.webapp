@@ -1,0 +1,25 @@
+{
+    "version": "0.1",
+    "name": "Pure CSS Minion",
+    "description": "CSS Minion from E.Calvo ported to firefoxOS http://cssdeck.com/labs/pure-css-minion",	
+    "launch_path": "/index.html",
+	"icons": {
+        "16": "/img/iconminion16.png",
+        "48": "/img/iconminion48.png",
+        "128": "/img/iconminion128.png"
+    },
+    "developer": {
+        "name": "original work : Ezechiel Calvo, ffos : theo23",
+		"url": "http://cssdeck.com/labs/pure-css-minion"
+    },
+    "installs_allowed_from": ["*"],
+    "locales": {
+        "en": {
+            "description":  "cSS Minion from E.Calvo ported to firefoxOS http://cssdeck.com/labs/pure-css-minion"
+            },        
+        "fr": {
+            "description":  "CSS Minion fait par E.Calvo porté pour firefoxOS http://cssdeck.com/labs/pure-css-minion"    
+        }
+    },
+    "default_locale": "en"
+}
